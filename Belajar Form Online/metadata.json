@@ -1,0 +1,7 @@
+{
+  "name": "Attendly - Digital Attendance with AI",
+  "description": "A modern attendance system with digital signature capture and AI-powered respondent analysis using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
